@@ -80,9 +80,9 @@ public class About extends SettingsPreferenceFragment {
         if (preference == mDonate) {
             launchUrl("https://crdroid.net/donate.php");
         } else if (preference == mSourceUrl) {
-            launchUrl("https://github.com/crdroidandroid");
+            launchUrl("https://github.com/GazaOS");
         } else if (preference == mTelegramUrl) {
-            launchUrl("https://t.me/crDroidAndroid");
+            launchUrl("https://t.me/Farhan_build_discussion");
         } else if (preference == mShare) {
             Intent intent = new Intent();
             intent.setAction(Intent.ACTION_SEND);
