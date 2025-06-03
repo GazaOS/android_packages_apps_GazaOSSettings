@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- App Title -->
-    <string name="crdroid_settings_title">crDroid Settings</string>
+    <string name="crdroid_settings_title">GazaOS Settings</string>
     <string name="crdroid_settings_summary">Open goodness</string>
     <string name="reset_settings_title">Reset settings</string>
     <string name="reset_settings_message">This will reset most crdroid settings to their default values for the current user. Would you like to continue?</string>
@@ -71,14 +71,14 @@
     <string name="changelog_crdroid_error">Unable to load changelog</string>
 
     <!-- About crDroid -->
-    <string name="about_crdroid">About crDroid</string>
+    <string name="about_crdroid">About GazaOS</string>
     <string name="about_device_name">Device</string>
 
     <!-- Share crDroid -->
-    <string name="share_crdroid_title">Share crDroid</string>
+    <string name="share_crdroid_title">Share GazaOS</string>
     <string name="share_crdroid_summary">Let others know about crDroid</string>
-    <string name="share_message">Check out if #crDroidAndroid is available for your device @ https://crdroid.net/</string>
-    <string name="share_chooser_title">Share crDroid</string>
+    <string name="share_message">Check out if #GazaOSAndroid is available for your device @ https://crdroid.net/</string>
+    <string name="share_chooser_title">Share GazaOS</string>
 
     <!-- Sites crDroid -->
     <string name="crdroid_source_title">GitHub</string>
@@ -1145,7 +1145,7 @@
     <string name="status_bar_logo_summary">Display a custom logo on left or right of the status bar</string>
     <string name="status_bar_logo_position_title">Logo position</string>
     <string name="status_bar_logo_style_title">Logo style</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">GazaOS</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Alien</string>
