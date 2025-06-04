@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2025 crDroid Android Project
+     Copyright (C) 2016-2025 GazaOS Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -66,8 +66,8 @@
     <!-- Share GazaOS -->
     <string name="share_crdroid_title">GazaOS\'i paylaş</string>
     <string name="share_crdroid_summary">Başkalarına GazaOS hakkında bilgi verin</string>
-    <string name="share_message">Cihazınız için #crDroidAndroid\'in mevcut olup olmadığını kontrol edin @ https://crdroid.net/</string>
-    <string name="share_chooser_title">crDroid\'i paylaş</string>
+    <string name="share_message">Cihazınız için #GazaOSAndroid\'in mevcut olup olmadığını kontrol edin @ https://crdroid.net/</string>
+    <string name="share_chooser_title">GazaOS\'i paylaş</string>
     <!-- Sites GazaOS -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Kaynak kodumuzu görüntüleyin</string>
@@ -548,8 +548,8 @@
     <string name="qs_footer_show_power_menu_title">Güç menüsü kısayolu</string>
     <string name="qs_footer_services_icon_title">Çalışan hizmetler kısayolu</string>
     <string name="qs_footer_settings_icon_title">Ayarlar kısayolu</string>
-    <!-- Device Info screen. crDroid legal. -->
-    <string name="crdroid_license_title">crDroid yasal</string>
+    <!-- Device Info screen. GazaOS legal. -->
+    <string name="crdroid_license_title">GazaOS yasal</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Parlaklık kaydırıcısı</string>
     <string name="qs_show_brightness_slider_title">Parlaklık kaydırıcısı</string>
@@ -967,7 +967,7 @@
     <string name="status_bar_logo_summary">Durum çubuğunun solunda veya sağında özel bir logo görüntüleyin</string>
     <string name="status_bar_logo_position_title">Logo konumu</string>
     <string name="status_bar_logo_style_title">Logo stili</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">GazaOS</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Uzaylı</string>

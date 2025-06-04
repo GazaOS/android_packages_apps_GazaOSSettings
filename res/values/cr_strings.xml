@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2025 crDroid Android Project
+     Copyright (C) 2016-2025 GazaOS Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -70,17 +70,17 @@
     <string name="changelog_crdroid_summary">View changes in the ROM installed</string>
     <string name="changelog_crdroid_error">Unable to load changelog</string>
 
-    <!-- About crDroid -->
+    <!-- About GazaOS -->
     <string name="about_crdroid">About GazaOS</string>
     <string name="about_device_name">Device</string>
 
-    <!-- Share crDroid -->
+    <!-- Share GazaOS -->
     <string name="share_crdroid_title">Share GazaOS</string>
-    <string name="share_crdroid_summary">Let others know about crDroid</string>
+    <string name="share_crdroid_summary">Let others know about GazaOS</string>
     <string name="share_message">Check out if #GazaOSAndroid is available for your device @ https://crdroid.net/</string>
     <string name="share_chooser_title">Share GazaOS</string>
 
-    <!-- Sites crDroid -->
+    <!-- Sites GazaOS -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">We love open source, check us out</string>
     <string name="crdroid_telegram_title">GazaOS community</string>
@@ -96,7 +96,7 @@
     <string name="crdroid_buildserversponsor_title" translatable="false">InterServer</string>
     <string name="crdroid_buildserversponsor_summary">We recommend their servers if interested in one</string>
 
-    <!-- Donate crDroid -->
+    <!-- Donate GazaOS -->
     <string name="donate_crdroid_title">Support us</string>
     <string name="donate_crdroid_summary">Donate to support further development</string>
     <string name="donate_team_title">GazaOS team</string>
@@ -623,8 +623,8 @@
     <string name="qs_footer_services_icon_title">Running services shortcut</string>
     <string name="qs_footer_settings_icon_title">Settings shortcut</string>
 
-    <!-- Device Info screen. crDroid legal. -->
-    <string name="crdroid_license_title">crDroid legal</string>
+    <!-- Device Info screen. GazaOS legal. -->
+    <string name="crdroid_license_title">GazaOS legal</string>
 
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Brightness slider</string>

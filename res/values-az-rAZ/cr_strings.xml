@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2025 crDroid Android Project
+     Copyright (C) 2016-2025 GazaOS Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -64,10 +64,10 @@
     <string name="about_crdroid">GazaOS haqqında</string>
     <string name="about_device_name">Cihaz</string>
     <!-- Share GazaOS -->
-    <string name="share_crdroid_title">crDroid\'i paylaş</string>
+    <string name="share_crdroid_title">GazaOS\'i paylaş</string>
     <string name="share_crdroid_summary">GazaOS haqqında başqalarının görüşlərini öyrənin</string>
-    <string name="share_message">crDroid\'in sizin cihaza uyğun olduğunu @ https://crdroid.net/ saytından öyrənə bilərsiniz</string>
-    <string name="share_chooser_title">crDroid\'i paylaş</string>
+    <string name="share_message">GazaOS\'in sizin cihaza uyğun olduğunu @ https://crdroid.net/ saytından öyrənə bilərsiniz</string>
+    <string name="share_chooser_title">GazaOS\'i paylaş</string>
     <!-- Sites GazaOS -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Biz açıq qaynaqları sevirik, izləmədə qalın</string>
@@ -548,8 +548,8 @@
     <string name="qs_footer_show_power_menu_title">Güc menyusu üçün qısayol</string>
     <string name="qs_footer_services_icon_title">Çalışan Xidmətlər Qısayolu</string>
     <string name="qs_footer_settings_icon_title">Ayarlar Qısayolu</string>
-    <!-- Device Info screen. crDroid legal. -->
-    <string name="crdroid_license_title">crDroid Qanuni</string>
+    <!-- Device Info screen. GazaOS legal. -->
+    <string name="crdroid_license_title">GazaOS Qanuni</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Parlaqlıq diyircəyi</string>
     <string name="qs_show_brightness_slider_title">Parlaqlıq diyircəyi</string>
@@ -967,7 +967,7 @@
     <string name="status_bar_logo_summary">Vəziyyət panelinin solunda və ya sağında fərdi loqo göstərin</string>
     <string name="status_bar_logo_position_title">Loqo məkanı</string>
     <string name="status_bar_logo_style_title">Loqo görünüşü</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">GazaOS</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Alien</string>
