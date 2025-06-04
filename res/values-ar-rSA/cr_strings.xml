@@ -16,10 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">إعدادات crDroid</string>
+    <string name="crdroid_settings_title">إعدادات GazaOS</string>
     <string name="crdroid_settings_summary">ملخص الإعدادات</string>
     <string name="reset_settings_title">إعادة ضبط الإعدادات</string>
-    <string name="reset_settings_message">سيؤدي ذلك إلى إعادة تعيين معظم إعدادات crdroid إلى قيمها الافتراضية للمستخدم الحالي. هل ترغب في المتابعة؟</string>
+    <string name="reset_settings_message">سيؤدي ذلك إلى إعادة تعيين معظم إعدادات GazaOS إلى قيمها الافتراضية للمستخدم الحالي. هل ترغب في المتابعة؟</string>
     <!-- Personalization Categories -->
     <string name="button_title">الأزرار</string>
     <string name="lockscreen_title">شاشة القفل</string>
@@ -60,15 +60,15 @@
     <string name="changelog_crdroid_title">سجل التغييرات الحالي</string>
     <string name="changelog_crdroid_summary">عرض التغييرات في الروم المثبت</string>
     <string name="changelog_crdroid_error">غير قادر على تحميل سجل التغييرات</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">حول crDroid</string>
+    <!-- About GazaOS -->
+    <string name="about_crdroid">حول GazaOS</string>
     <string name="about_device_name">الجهاز</string>
-    <!-- Share crDroid -->
+    <!-- Share GazaOS -->
     <string name="share_crdroid_title">مشاركة crDroid</string>
     <string name="share_crdroid_summary">دع الآخرين يعرفون عن crDroid</string>
     <string name="share_message">تحقق مما إذا كان #crDroidAndroid متوفر لجهازك @ https://crdroid.net/</string>
     <string name="share_chooser_title">مشاركة crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- Sites GazaOS -->
     <string name="crdroid_source_title">على موقع Github</string>
     <string name="crdroid_source_summary">نحن نحب المصدر المفتوح، تحقق منا</string>
     <string name="crdroid_telegram_title">مجتمع crDroid</string>
@@ -81,7 +81,7 @@
     <string name="crdroid_translate_summary">المساعدة في تعريب الروم بلغتك!</string>
     <string name="crdroid_sponsor_summary">قم بزيارة الشريك المضيف لموقعنا</string>
     <string name="crdroid_buildserversponsor_summary">نحن نوصي بخوادمهم إن كنت مهتمًا</string>
-    <!-- Donate crDroid -->
+    <!-- Donate GazaOS -->
     <string name="donate_crdroid_title">ادعمنا</string>
     <string name="donate_crdroid_summary">تبرع لدعم المزيد من التطوير</string>
     <string name="donate_team_title">فريق crDroid</string>
