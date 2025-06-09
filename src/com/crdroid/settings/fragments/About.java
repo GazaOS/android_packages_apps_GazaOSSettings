@@ -78,7 +78,7 @@ public class About extends SettingsPreferenceFragment {
     @Override
     public boolean onPreferenceTreeClick(Preference preference) {
         if (preference == mDonate) {
-            launchUrl("https://crdroid.net/donate.php");
+            launchUrl("https://t.me/FARHAN_MUH_TASIM");
         } else if (preference == mSourceUrl) {
             launchUrl("https://github.com/GazaOS");
         } else if (preference == mTelegramUrl) {
@@ -95,7 +95,7 @@ public class About extends SettingsPreferenceFragment {
         } else if (preference == mWebsite) {
             launchUrl("https://crdroid.net");
         } else if (preference == mTelegramChannelUrl) {
-            launchUrl("https://t.me/crDroidUpdates");
+            launchUrl("https://t.me/farhan_build");
         } else if (preference == mSponsor) {
             launchUrl("https://www.scopehosts.com");
         } else if (preference == mBuildServerSponsor){
