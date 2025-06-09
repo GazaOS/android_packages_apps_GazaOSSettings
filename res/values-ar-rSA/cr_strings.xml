@@ -1013,7 +1013,7 @@
     <string name="app_info_install_time">جاري التثبيت %1$s</string>
     <string name="app_info_update_time">تم تحديث %1$s</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">إعدادات CrDroid</string>
+    <string name="show_clipboard_overlay_title">إعدادات GazaOS</string>
     <string name="show_clipboard_overlay_summary">إظهار تراكب في الجزء السفلي الأيسر من الشاشة عندما يتم نسخ شيء ما إلى الحافظة</string>
     <!-- Sensor block per-package -->
     <string name="sensor_block_title">تأمين المستشعر</string>

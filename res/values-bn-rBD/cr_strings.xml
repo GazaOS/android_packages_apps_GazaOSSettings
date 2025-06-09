@@ -61,13 +61,13 @@
     <string name="changelog_crdroid_summary">ইনস্টল করা রমে পরিবর্তন দেখুন</string>
     <string name="changelog_crdroid_error">পরিবর্তন লোড করতে অক্ষম</string>
     <!-- About GazaOS -->
-    <string name="about_crdroid">CrDroid সম্পর্কে</string>
+    <string name="about_crdroid">GazaOS সম্পর্কে</string>
     <string name="about_device_name">ডিভাইস</string>
     <!-- Share GazaOS -->
-    <string name="share_crdroid_title">CrDroid শেয়ার করুন</string>
-    <string name="share_crdroid_summary">CrDroid সম্পর্কে অন্যদের জানান</string>
+    <string name="share_crdroid_title">GazaOS শেয়ার করুন</string>
+    <string name="share_crdroid_summary">GazaOS সম্পর্কে অন্যদের জানান</string>
     <string name="share_message">GazaOS আপনার ডিভাইসে আছে কিনা দেখুন</string>
-    <string name="share_chooser_title">CrDroid শেয়ার করুন</string>
+    <string name="share_chooser_title">GazaOS শেয়ার করুন</string>
     <!-- Sites GazaOS -->
     <string name="crdroid_source_title">গিটহাব</string>
     <string name="crdroid_source_summary">আমরা ওপেন সোর্স ভালবাসি, আমাদেরকে দেখুন</string>
