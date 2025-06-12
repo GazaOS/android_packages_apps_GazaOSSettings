@@ -16,56 +16,18 @@
 
 package com.crdroid.settings;
 
-import android.app.Activity;
-import android.app.AlertDialog;
-import android.content.Context;
-import android.content.DialogInterface;
-import android.os.AsyncTask;
 import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.MotionEvent;
-import android.view.Menu;
-import android.view.MenuInflater;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.FrameLayout;
-import android.widget.LinearLayout;
-
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentManager;
-import androidx.fragment.app.FragmentPagerAdapter;
-import androidx.viewpager.widget.ViewPager;
-
-import com.android.internal.logging.nano.MetricsProto;
+import android.content.Context;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
-
-import com.crdroid.settings.fragments.About;
-import com.crdroid.settings.fragments.Buttons;
-import com.crdroid.settings.fragments.LockScreen;
-import com.crdroid.settings.fragments.Miscellaneous;
-import com.crdroid.settings.fragments.Navigation;
-import com.crdroid.settings.fragments.Notifications;
-import com.crdroid.settings.fragments.QuickSettings;
-import com.crdroid.settings.fragments.Sound;
-import com.crdroid.settings.fragments.StatusBar;
-import com.crdroid.settings.fragments.UserInterface;
-
+import com.android.internal.logging.nano.MetricsProto;
+ 
 public class crDroidSettingsLayout extends SettingsPreferenceFragment {
-
-    private static final String TAG = "crDroidSettingsLayout";
-    ViewPager mViewPager;
-    ViewGroup mContainer;
-    PagerSlidingTabStrip mTabs;
-    SectionsPagerAdapter mSectionsPagerAdapter;
-    protected Context mContext;
-
-    private static final int MENU_RESET = Menu.FIRST;
-
+ 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+<<<<<<< HEAD
         getActivity().setTitle(R.string.crdroid_settings_title);
     }
 
@@ -206,6 +168,12 @@ public class crDroidSettingsLayout extends SettingsPreferenceFragment {
         };
         return titleString;
     }
+=======
+ 
+        addPreferencesFromResource(R.xml.crdroid_dashboard);
+     }
+ 
+>>>>>>> 5451671d (Settings: added dashboard style)
 
     @Override
     public int getMetricsCategory() {

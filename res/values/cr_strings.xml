@@ -17,7 +17,11 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- App Title -->
+<<<<<<< HEAD
     <string name="crdroid_settings_title">GazaOS Settings</string>
+=======
+    <string name="crdroid_settings_title">crDroid Hub</string>
+>>>>>>> 5451671d (Settings: added dashboard style)
     <string name="crdroid_settings_summary">Open goodness</string>
     <string name="reset_settings_title">Reset settings</string>
     <string name="reset_settings_message">This will reset most crdroid settings to their default values for the current user. Would you like to continue?</string>
