@@ -17,33 +17,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- App Title -->
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     <string name="crdroid_settings_title">GazaOS Settings</string>
     <string name="crdroid_settings_summary">Open goodness</string>
-    <string name="crdroid_settings_title">MatriXify</string>
-    <string name="crdroid_settings_summary">Redefining the Fabric of Customization</string>
     <string name="reset_settings_title">Reset settings</string>
     <string name="reset_settings_message">This will reset most GazaOS  settings to their default values for the current user. Would you like to continue?</string>
-=======
-    <string name="crdroid_settings_title">MatriXify</string>
-    <string name="crdroid_settings_summary">Redefining the Fabric of Customization</string>
-    <string name="reset_settings_title">Reset settings</string>
-    <string name="reset_settings_message">This will reset most MatriXify settings to their default values for the current user. Would you like to continue?</string>
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-=======
-    <string name="crdroid_settings_title">MatriXify</string>
-    <string name="crdroid_settings_summary">Redefining the Fabric of Customization</string>
-    <string name="reset_settings_title">Reset settings</string>
-    <string name="reset_settings_message">This will reset most MatriXify settings to their default values for the current user. Would you like to continue?</string>
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-=======
-    <string name="crdroid_settings_title">MatriXify</string>
-    <string name="crdroid_settings_summary">Redefining the Fabric of Customization</string>
-    <string name="reset_settings_title">Reset settings</string>
-    <string name="reset_settings_message">This will reset most MatriXify settings to their default values for the current user. Would you like to continue?</string>
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
 
     <!-- Personalization Categories -->
     <string name="button_title">Buttons</string>
@@ -93,9 +70,7 @@
     <string name="changelog_crdroid_summary">View changes in the ROM installed</string>
     <string name="changelog_crdroid_error">Unable to load changelog</string>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     <!-- About GazaOS -->
     <string name="about_crdroid">About GazaOS</string>
     <string name="about_device_name">Device</string>
@@ -104,39 +79,7 @@
     <string name="share_crdroid_title">Share GazaOS </string>
     <string name="share_crdroid_summary">Let others know about Matrixx</string>
     <string name="share_message">Check  GazaOS  is available for your device @ https://www.projectmatrixx.org/</string>
-=======
-    <!-- About crDroid -->
-    <string name="about_crdroid">About Matrixx</string>
-    <string name="about_device_name">Device</string>
-=======
-    <!-- About crDroid -->
-    <string name="about_crdroid">About Matrixx</string>
-    <string name="about_device_name">Device</string>
-=======
-    <!-- About crDroid -->
-    <string name="about_crdroid">About Matrixx</string>
-    <string name="about_device_name">Device</string>
 
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Share Matrixx</string>
-    <string name="share_crdroid_summary">Let others know about Matrixx</string>
-    <string name="share_message">Check out if #Matrixx is available for your device @ https://www.projectmatrixx.org/</string>
-    <string name="share_chooser_title">Share Matrixx</string>
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Share Matrixx</string>
-    <string name="share_crdroid_summary">Let others know about Matrixx</string>
-    <string name="share_message">Check out if #Matrixx is available for your device @ https://www.projectmatrixx.org/</string>
-    <string name="share_chooser_title">Share Matrixx</string>
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Share Matrixx</string>
-    <string name="share_crdroid_summary">Let others know about Matrixx</string>
-    <string name="share_message">Check out if #Matrixx is available for your device @ https://www.projectmatrixx.org/</string>
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-    <string name="share_chooser_title">Share Matrixx</string>
 
     <!-- Sites GazaOS -->
     <string name="crdroid_source_title">GitHub</string>
@@ -157,20 +100,7 @@
     <!-- Donate GazaOS -->
     <string name="donate_crdroid_title">Support us</string>
     <string name="donate_crdroid_summary">Donate to support further development</string>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     <string name="donate_team_title">GazaOS team</string>
-=======
-    <string name="donate_team_title">Matrixx team</string>
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-=======
-    <string name="donate_team_title">Matrixx team</string>
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-=======
-    <string name="donate_team_title">Matrixx team</string>
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-    <string name="donate_team_summary">Donate to support server hosting, site uptime and overall management</string>
 
     <!-- OTA -->
     <string name="crdroid_update_title">Updates</string>
@@ -692,20 +622,10 @@
     <string name="qs_footer_show_power_menu_title">Power menu shortcut</string>
     <string name="qs_footer_services_icon_title">Running services shortcut</string>
     <string name="qs_footer_settings_icon_title">Settings shortcut</string>
-<<<<<<< HEAD
+
     <!-- Device Info screen. GazaOS legal. -->
     <string name="crdroid_license_title">GazaOS legal</string>
-=======
 
-    <!-- Device Info screen. crDroid legal. -->
-    <string name="crdroid_license_title">Matrixx legal</string>
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-=======
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
-=======
->>>>>>> 827c331c (Matrixx Settings: initial implementation)
 
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Brightness slider</string>
