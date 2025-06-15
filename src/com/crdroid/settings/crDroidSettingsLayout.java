@@ -27,7 +27,6 @@ public class crDroidSettingsLayout extends SettingsPreferenceFragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-<<<<<<< HEAD
         getActivity().setTitle(R.string.crdroid_settings_title);
     }
 
@@ -168,12 +167,10 @@ public class crDroidSettingsLayout extends SettingsPreferenceFragment {
         };
         return titleString;
     }
-=======
  
         addPreferencesFromResource(R.xml.crdroid_dashboard);
      }
  
->>>>>>> 5451671d (Settings: added dashboard style)
 
     @Override
     public int getMetricsCategory() {
